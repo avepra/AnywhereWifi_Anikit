@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "630469382728",
+    "firebase_url": "https://beacon-plus.firebaseio.com",
+    "project_id": "beacon-plus",
+    "storage_bucket": "beacon-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630469382728:android:092d3a891e4c4b82",
+        "android_client_info": {
+          "package_name": "com.example.asalunkhe.anywherewifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630469382728-6lqjr5417073vq0dgop663mh78f11aku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPcOgsxkSLojohYqtOhj2uqv-tm_cLBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
